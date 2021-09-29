@@ -1,3 +1,3 @@
 <script>
-  window.location.replace('/blogs/index.html');
+  window.location.replace('/courses/index.html');
 </script>
