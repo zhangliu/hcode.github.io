@@ -3,4 +3,4 @@
 const message = hello world!
 ```
 
-![图片](/imgs/1.png)
+![图片](../imgs/1.png)
