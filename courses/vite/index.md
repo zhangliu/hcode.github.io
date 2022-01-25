@@ -12,4 +12,4 @@
 ![](https://upload-images.jianshu.io/upload_images/4328038-12af3423c053b569.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 请求优化
-![image.png](https://upload-images.jianshu.io/upload_images/4328038-fd12742b0f28cda1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://user-images.githubusercontent.com/5234349/151004697-1794be1e-829b-4516-9b29-1bff9bf233c4.png)
