@@ -6,7 +6,7 @@
 
 ### vite 的基础
 浏览器能够加载 esm 模块：
-![](https://upload-images.jianshu.io/upload_images/4328038-c98de0beda8b2409.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://user-images.githubusercontent.com/5234349/151005323-8a3fce74-4426-4cd1-843b-f6cc4909badd.png)
 
 ### 资源转换
 ![image](https://user-images.githubusercontent.com/5234349/151005110-12f850a5-f53b-4c4b-ac83-ca966f43c31c.png)
