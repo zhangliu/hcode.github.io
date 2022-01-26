@@ -9,6 +9,7 @@ https://xrswim.com/xrhome
 https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API
 
 ### WebXR 基本概念
+* 场景：
 
 ### demo 解释
 * demo地址：https://immersive-web.github.io/webxr-samples/
