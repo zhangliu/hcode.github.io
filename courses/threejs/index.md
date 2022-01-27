@@ -4,3 +4,8 @@
 
 ### 官方手册
 https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene
+
+### 概念
+* 场景：
+* 相机：
+* render：
