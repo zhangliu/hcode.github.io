@@ -6,7 +6,7 @@
 https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene
 
 ### 概念
-* 场景：
+* 场景：一个 3D 空间，可以存放一些 3D 物品
 * 相机：
 * render：
 * 网格：
